@@ -4,7 +4,7 @@ A fun and educational React-based word guessing game where incorrect guesses mak
 
 ![Assembly Endgame Game Screenshot]
 <p align="center">
-  <img src="./public/assembly-endgame-app-screenshot.jpeg" width="800" alt="Assembly Endgame Game Screenshot">
+  <img src="./public/assembly-endgame-app-screenshot.jpg" width="800" alt="Assembly Endgame Game Screenshot">
 </p>
 
 ## 🎮 Game Features
