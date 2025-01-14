@@ -24,15 +24,14 @@ A fun and educational React-based word guessing game where incorrect guesses mak
 
 1. Clone the repository:
 
-````bash:terminal
 git clone https://github.com/yourusername/assembly-endgame.git
 
 2. Install dependencies:
-```bash:terminal
+
 cd assembly-endgame && npm install
 
 3. Start the development server:
-```bash:terminal
+
 npm run dev
 
 ## 🎯 How to Play
@@ -73,4 +72,6 @@ MIT License - feel free to use and modify for your own projects!
 Your Name - [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
 Project Link: [https://github.com/yourusername/assembly-endgame](https://github.com/yourusername/assembly-endgame)
 
-````
+```
+
+```
