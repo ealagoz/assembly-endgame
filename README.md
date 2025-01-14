@@ -2,6 +2,8 @@
 
 A fun and educational React-based word guessing game where incorrect guesses make programming languages disappear! Try to guess the word before you're left with Assembly.
 
+![Assembly Endgame Game Screenshot](./screenshots/assembly-endgame-app-screenshot.jpg)
+
 ## 🎮 Game Features
 
 - Interactive keyboard interface
@@ -69,9 +71,5 @@ MIT License - feel free to use and modify for your own projects!
 
 ## 📬 Contact
 
-Your Name - [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
-Project Link: [https://github.com/yourusername/assembly-endgame](https://github.com/yourusername/assembly-endgame)
-
-```
-
-```
+- GitHub [ealagoz](https://github.com/ealagoz)
+- Project Link: [https://github.com/ealagoz/assembly-endgame](https://github.com/ealagoz/assembly-endgame)
