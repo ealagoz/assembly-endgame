@@ -2,7 +2,7 @@
 
 A fun and educational React-based word guessing game where incorrect guesses make programming languages disappear! Try to guess the word before you're left with Assembly.
 
-![Assembly Endgame Game Screenshot](./screenshots/assembly-endgame-app-screenshot.jpg)
+![Assembly Endgame Game Screenshot](./public/assembly-endgame-app-screenshot.jpg)
 
 ## 🎮 Game Features
 
