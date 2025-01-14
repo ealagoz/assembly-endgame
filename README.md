@@ -13,7 +13,7 @@ A fun and educational React-based word guessing game where incorrect guesses mak
 
 ## 🚀 Technologies Used
 
-- React 18.3
+- React 19.0
 - Vite
 - ESLint
 - clsx for conditional className handling
